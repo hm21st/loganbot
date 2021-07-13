@@ -7,4 +7,5 @@ The commands are:
 ## ;gay (Logan is very gay!)
 ## ;p (Ping Logan!)
 ## ;funny (Logan is reaaal funny!)
+## ;website (Gives the link to the Logan Bot website!)
 ## ;vault (Plays a random video from the vault!)
