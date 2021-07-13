@@ -18,7 +18,7 @@ async def ping(ping):
 # This is the main command, the Nigger command. It posts a funny.
 @client.command()
 async def nigger(nigger):
-        await nigger.send('Logan pretending to be active https://tenor.com/view/brick-gif-20174929')
+        await nigger.send('Logan (<@620732485612994631>) pretending to be active https://tenor.com/view/brick-gif-20174929')
 
 # Logan is very gay.
 @client.command()
@@ -30,7 +30,12 @@ async def gay(gay):
 async def p(pinglol):
     await pinglol.send('<@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631> <@620732485612994631>')
 
+# Logan is so funny!
+@client.command()
+async def funny(funny):
+    await funny.send('okay funny boy <@620732485612994631>')
+
 # Client run command.
-client.run('ClientID')
+client.run('ODY0MDE3ODA1NDQ3OTIxNjc0.YOvVSQ.P3oSp-YSu3OQ8xEhxu13CrkbVrw')
 
 # And this is the Loganisanigger bot!
