@@ -5,4 +5,4 @@ The commands are:
 ## .ping (Tells you the ping, pong!)
 ## .nigger (Main command to make fun of logan!)
 ## .gay (Logan is very gay!)
-## .p (ping Logan)
+## .p (Ping Logan!)
