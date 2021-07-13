@@ -36,6 +36,6 @@ async def funny(funny):
     await funny.send('okay funny boy <@620732485612994631>')
 
 # Client run command.
-client.run('ODY0MDE3ODA1NDQ3OTIxNjc0.YOvVSQ.P3oSp-YSu3OQ8xEhxu13CrkbVrw')
+client.run('ClientID')
 
 # And this is the Loganisanigger bot!
