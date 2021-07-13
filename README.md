@@ -6,3 +6,4 @@ The commands are:
 ## .nigger (Main command to make fun of logan!)
 ## .gay (Logan is very gay!)
 ## .p (Ping Logan!)
+## .funny (Logan is reaaal funny!)
