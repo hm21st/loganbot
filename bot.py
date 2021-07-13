@@ -35,6 +35,11 @@ async def p(pinglol):
 @client.command()
 async def funny(funny):
     await funny.send('okay funny boy <@620732485612994631>')
+    
+# Website command.
+@client.command()
+async def website(ctx):
+    await ctx.send('https://loganbot.carrd.co/')
 
 # Random Vault Videos
 @client.command(aliases=['vault', 'test'])
