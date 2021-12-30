@@ -17,10 +17,10 @@ async def on_ready():
 async def ping(ping):
         await ping.send(f'Pong! {round(client.latency * 1000)}ms')
 
-# This is the main command, the Nigger command. It posts a funny.
+# This is the main command, the Furry command. It posts a funny.
 @client.command()
-async def nigger(nigger):
-        await nigger.send('Logan (<@620732485612994631>) pretending to be active https://tenor.com/view/brick-gif-20174929')
+async def furry(furry):
+        await furry.send('Logan (<@620732485612994631>) pretending to be active https://tenor.com/view/brick-gif-20174929')
 
 # Logan is very gay.
 @client.command()
@@ -100,4 +100,4 @@ async def _vault(ctx):
 # Client run command.
 client.run('ClientID')
 
-# And this is the Loganisanigger bot!
+# And this is the Logan Bot!
